@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "date": "2024-11-18",
+        "symptom_id": 1,
+        "symptom_name": "Dandruff",
+        "severity_value": 8
+    },
+    {
+        "id": 2,
+        "date": "2024-11-18",
+        "symptom_id": 2,
+        "symptom_name": "Sinus Blockage",
+        "severity_value": 7
+    }
+]

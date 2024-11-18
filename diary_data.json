@@ -1,0 +1,175 @@
+{
+    "entries": [
+        {
+            "id": 1,
+            "date": "2024-11-17",
+            "food_id": 4,
+            "food_name": "Chicken wings",
+            "quantity": 250,
+            "calories": 635,
+            "cost": 2.12
+        },
+        {
+            "id": 2,
+            "date": "2024-11-17",
+            "food_id": 3,
+            "food_name": "Coconut oil",
+            "quantity": 10,
+            "calories": 89.2,
+            "cost": 0.1
+        },
+        {
+            "id": 3,
+            "date": "2024-11-17",
+            "food_id": 5,
+            "food_name": "skim milk (lactose free liddels)",
+            "quantity": 1000,
+            "calories": 340,
+            "cost": 3
+        },
+        {
+            "id": 4,
+            "date": "2024-11-17",
+            "food_id": 6,
+            "food_name": "grape juice",
+            "quantity": 750,
+            "calories": 450,
+            "cost": 1.7999999999999998
+        },
+        {
+            "id": 5,
+            "date": "2024-11-17",
+            "food_id": 1,
+            "food_name": "White Sugar (Woolworths)",
+            "quantity": 150,
+            "calories": 580.5,
+            "cost": 0.21375
+        },
+        {
+            "id": 6,
+            "date": "2024-11-17",
+            "food_id": 7,
+            "food_name": "Potato",
+            "quantity": 250,
+            "calories": 212.5,
+            "cost": 0.8125
+        },
+        {
+            "id": 7,
+            "date": "2024-11-18",
+            "food_id": 6,
+            "food_name": "grape juice",
+            "quantity": 400,
+            "calories": 240,
+            "cost": 0.96
+        },
+        {
+            "id": 8,
+            "date": "2024-11-18",
+            "food_id": 9,
+            "food_name": "Raw Sugar (coles)",
+            "quantity": 40,
+            "calories": 160,
+            "cost": 0.07200000000000001
+        },
+        {
+            "id": 9,
+            "date": "2024-11-18",
+            "food_id": 9,
+            "food_name": "Raw Sugar (coles)",
+            "quantity": 30,
+            "calories": 120,
+            "cost": 0.054
+        },
+        {
+            "id": 10,
+            "date": "2024-11-18",
+            "food_id": 8,
+            "food_name": "A2 Light milk",
+            "quantity": 500,
+            "calories": 230,
+            "cost": 1.725
+        },
+        {
+            "id": 11,
+            "date": "2024-11-18",
+            "food_id": 9,
+            "food_name": "Raw Sugar (coles)",
+            "quantity": 20,
+            "calories": 80,
+            "cost": 0.036000000000000004
+        },
+        {
+            "id": 12,
+            "date": "2024-11-18",
+            "food_id": 14,
+            "food_name": "Rice Cakes (woolworths thin brown)",
+            "quantity": 50,
+            "calories": 199.66666666666666,
+            "cost": 0.5499999999999999
+        },
+        {
+            "id": 13,
+            "date": "2024-11-18",
+            "food_id": 13,
+            "food_name": "Mightymite",
+            "quantity": 50,
+            "calories": 71.72413793103449,
+            "cost": 0.5431034482758621
+        },
+        {
+            "id": 14,
+            "date": "2024-11-18",
+            "food_id": 10,
+            "food_name": "Coca Cola (1/2 Price)",
+            "quantity": 350,
+            "calories": 129.64000000000001,
+            "cost": 0.5376000000000001
+        },
+        {
+            "id": 15,
+            "date": "2024-11-18",
+            "food_id": 6,
+            "food_name": "grape juice",
+            "quantity": 400,
+            "calories": 240,
+            "cost": 0.96
+        },
+        {
+            "id": 16,
+            "date": "2024-11-18",
+            "food_id": 7,
+            "food_name": "Potato",
+            "quantity": 420,
+            "calories": 357,
+            "cost": 1.365
+        },
+        {
+            "id": 17,
+            "date": "2024-11-18",
+            "food_id": 4,
+            "food_name": "Chicken wings IGA Wattleseed(on sale)",
+            "quantity": 250,
+            "calories": 635,
+            "cost": 2.12
+        },
+        {
+            "id": 18,
+            "date": "2024-11-18",
+            "food_id": 15,
+            "food_name": "Cheese (Woolworths 250g)",
+            "quantity": 50,
+            "calories": 201.60000000000002,
+            "cost": 1
+        },
+        {
+            "id": 19,
+            "date": "2024-11-18",
+            "food_id": 3,
+            "food_name": "Coconut oil",
+            "quantity": 10,
+            "calories": 89.2,
+            "cost": 0.1
+        }
+    ]
+}

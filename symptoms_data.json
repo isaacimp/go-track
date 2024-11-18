@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Dandruff",
+        "tracking_type": "severity",
+        "scale_max": 10
+    },
+    {
+        "id": 2,
+        "name": "Sinus Blockage",
+        "tracking_type": "severity",
+        "scale_max": 10
+    }
+]

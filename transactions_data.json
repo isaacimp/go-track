@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "date": "2024-11-18",
+        "type": "expense",
+        "category": "Bills",
+        "amount": 20.8,
+        "from_asset_id": 1,
+        "description": "Twitter (X) Premium monthly expense",
+        "is_recurring": false
+    },
+    {
+        "id": 2,
+        "date": "2024-11-18",
+        "type": "income",
+        "category": "Salary (Marisas Kitchen)",
+        "amount": 360,
+        "from_asset_id": 1,
+        "description": "Marisas Kitchen salary (2 days work (12 hours@30 p/h))",
+        "is_recurring": false
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "White Sugar (Woolworths)",
+        "price": 2.85,
+        "calories": 7740,
+        "quantity": 2000,
+        "cal_per_dollar": 2715.7894736842104,
+        "cal_per_100g": 387
+    },
+    {
+        "id": 2,
+        "name": "curlys pork crackle (Woolworths)",
+        "price": 2,
+        "calories": 258,
+        "quantity": 50,
+        "cal_per_dollar": 129,
+        "cal_per_100g": 516
+    },
+    {
+        "id": 3,
+        "name": "Coconut oil",
+        "price": 5,
+        "calories": 4460,
+        "quantity": 500,
+        "cal_per_dollar": 892,
+        "cal_per_100g": 892
+    },
+    {
+        "id": 4,
+        "name": "Chicken wings IGA Wattleseed(on sale)",
+        "price": 4.24,
+        "calories": 1270,
+        "quantity": 500,
+        "cal_per_dollar": 299.52830188679246,
+        "cal_per_100g": 254
+    },
+    {
+        "id": 5,
+        "name": "skim milk (lactose free liddels)",
+        "price": 3,
+        "calories": 340,
+        "quantity": 1000,
+        "cal_per_dollar": 113.33333333333333,
+        "cal_per_100g": 34
+    },
+    {
+        "id": 6,
+        "name": "grape juice",
+        "price": 4.8,
+        "calories": 1200,
+        "quantity": 2000,
+        "cal_per_dollar": 250,
+        "cal_per_100g": 60
+    },
+    {
+        "id": 7,
+        "name": "Potato",
+        "price": 6.5,
+        "calories": 1700,
+        "quantity": 2000,
+        "cal_per_dollar": 261.53846153846155,
+        "cal_per_100g": 85
+    },
+    {
+        "id": 8,
+        "name": "A2 Light milk",
+        "price": 6.9,
+        "calories": 920,
+        "quantity": 2000,
+        "cal_per_dollar": 133.33333333333331,
+        "cal_per_100g": 46
+    },
+    {
+        "id": 9,
+        "name": "Raw Sugar (coles)",
+        "price": 1.8,
+        "calories": 4000,
+        "quantity": 1000,
+        "cal_per_dollar": 2222.222222222222,
+        "cal_per_100g": 400
+    },
+    {
+        "id": 10,
+        "name": "Coca Cola (1/2 Price)",
+        "price": 1.92,
+        "calories": 463,
+        "quantity": 1250,
+        "cal_per_dollar": 241.14583333333334,
+        "cal_per_100g": 37.04
+    },
+    {
+        "id": 11,
+        "name": "Robern Coconut Apricot Balls",
+        "price": 4,
+        "calories": 894,
+        "quantity": 200,
+        "cal_per_dollar": 223.5,
+        "cal_per_100g": 447
+    },
+    {
+        "id": 12,
+        "name": "Oysters in water",
+        "price": 1.5,
+        "calories": 109,
+        "quantity": 85,
+        "cal_per_dollar": 72.66666666666667,
+        "cal_per_100g": 128.23529411764707
+    },
+    {
+        "id": 13,
+        "name": "Mightymite",
+        "price": 3.15,
+        "calories": 416,
+        "quantity": 290,
+        "cal_per_dollar": 132.06349206349208,
+        "cal_per_100g": 143.44827586206895
+    },
+    {
+        "id": 14,
+        "name": "Rice Cakes (woolworths thin brown)",
+        "price": 1.65,
+        "calories": 599,
+        "quantity": 150,
+        "cal_per_dollar": 363.03030303030306,
+        "cal_per_100g": 399.3333333333333
+    },
+    {
+        "id": 15,
+        "name": "Cheese (Woolworths 250g)",
+        "price": 5,
+        "calories": 1008,
+        "quantity": 250,
+        "cal_per_dollar": 201.6,
+        "cal_per_100g": 403.2
+    }
+]
